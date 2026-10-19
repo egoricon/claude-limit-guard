@@ -1,0 +1,20 @@
+{
+  "name": "limit-guard",
+  "version": "1.0.0",
+  "description": "Stops long autonomous Claude Code tasks at a 5-hour usage threshold you pick — per chat, zero tokens spent on checks",
+  "author": {
+    "name": "egoricon",
+    "url": "https://github.com/egoricon"
+  },
+  "homepage": "https://github.com/egoricon/claude-limit-guard",
+  "repository": "https://github.com/egoricon/claude-limit-guard",
+  "license": "MIT",
+  "keywords": [
+    "usage",
+    "rate-limit",
+    "autonomous",
+    "guard",
+    "statusline"
+  ],
+  "types": "./types/index.d.ts"
+}

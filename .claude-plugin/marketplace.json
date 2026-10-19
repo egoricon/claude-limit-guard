@@ -1,0 +1,5 @@
+{
+  "name": "claude-limit-guard",
+  "owner": { "name": "egoricon" },
+  "plugins": [{ "name": "limit-guard", "source": "./" }]
+}
